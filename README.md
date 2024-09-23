@@ -15,3 +15,7 @@
 **Kaggle** - https://www.kaggle.com/datasets/nih-chest-xrays/data
 
 **NIH National Institutes of Health:** NIH Clinical Center provides one of the largest publicly available chest x-ray datasets to scientific community. https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community
+
+**DeepLearning.AI:** https://www.deeplearning.ai/
+
+**Coursera:** https://www.coursera.org/
