@@ -12,9 +12,13 @@
 
 **NIH National Institutes of Health:** Impact of Deep Learning Assistance on the Histopathologic Review of Lymph Nodes for Metastatic Breast Cancer. https://pubmed.ncbi.nlm.nih.gov/30312179/
 
-**Kaggle** - https://www.kaggle.com/datasets/nih-chest-xrays/data
-
 **NIH National Institutes of Health:** NIH Clinical Center provides one of the largest publicly available chest x-ray datasets to scientific community. https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community
+
+**UNI FREIBURG:** U-Net: Convolutional Networks for Biomedical Image Segmentation. https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/
+
+**Medium:** UNet Introducing Symmetry in Segmentation. https://towardsdatascience.com/u-net-b229b32b4a71
+
+**arxiv:** U-Net: Convolutional Networks for Biomedical Image Segmentation. https://arxiv.org/abs/1505.04597
 
 **DeepLearning.AI:** https://www.deeplearning.ai/
 
