@@ -6,7 +6,8 @@ AI is transforming the practice of medicine. It’s helping doctors diagnose pat
   
   Practice classifying diseases on chest x-rays using a neural network.
     - **Lab:**
-    - **Assignment:** [Chest X-Ray Medical Diagnosis with Deep Learning](https://github.com/raquelcolares/AI-for-Medical-Diagnosis/blob/main/week%201/assignment/C1_W1_Assignment.ipynb)
+    - **Assignment:**
+    - [Chest X-Ray Medical Diagnosis with Deep Learning](https://github.com/raquelcolares/AI-for-Medical-Diagnosis/blob/main/week%201/assignment/C1_W1_Assignment.ipynb)
 
 - **Week 2** - Evaluating Models
 
