@@ -23,7 +23,8 @@ AI is transforming the practice of medicine. It’s helping doctors diagnose pat
 
 
 
-**Instructors**: Pranav Rajpurkar(Harvard University), Bora Uyumazturk(Viaduct), Amirhossein Kiani(Google Health)
+#### Instructors: 
+Pranav Rajpurkar(Harvard University), Bora Uyumazturk(Viaduct), Amirhossein Kiani(Google Health)
 
 ---------------------------------------------------
 ### References
