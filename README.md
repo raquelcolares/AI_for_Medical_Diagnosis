@@ -6,8 +6,13 @@ AI is transforming the practice of medicine. It’s helping doctors diagnose pat
   
   Practice classifying diseases on chest x-rays using a neural network.
     - **Lab:**
+        [Data Exploration & Image Pre-Processing](https://github.com/raquelcolares/AI-for-Medical-Diagnosis/blob/main/week%201/labs/C1_W1_Lab_1_data_exploration_and_image_preprocessing.ipynb)
+        [Counting Labels & Weighted Loss Function](https://github.com/raquelcolares/AI-for-Medical-Diagnosis/blob/main/week%201/labs/C1_W1_Lab_2_counting_labels_and_weighted_loss_function.ipynb)
+        [Densenet](https://github.com/raquelcolares/AI-for-Medical-Diagnosis/blob/main/week%201/labs/C1_W1_Lab_3_densenet.ipynb)
+        [Patient Overlap and Data Leakage](https://github.com/raquelcolares/AI-for-Medical-Diagnosis/blob/main/week%201/labs/C1_W1_Lab_4_patient_overlap_and_data_leakage.ipynb)
+
     - **Assignment:**
-    - [Chest X-Ray Medical Diagnosis with Deep Learning](https://github.com/raquelcolares/AI-for-Medical-Diagnosis/blob/main/week%201/assignment/C1_W1_Assignment.ipynb)
+        [Chest X-Ray Medical Diagnosis with Deep Learning](https://github.com/raquelcolares/AI-for-Medical-Diagnosis/blob/main/week%201/assignment/C1_W1_Assignment.ipynb)
 
 - **Week 2** - Evaluating Models
 
