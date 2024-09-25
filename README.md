@@ -1,6 +1,6 @@
 # AI for Medical Diagnosis
 
-AI is transforming the practice of medicine. It’s helping doctors diagnose patients more accurately, make predictions about patients’ future health, and recommend better treatments.
+AI is transforming the practice of medicine. It’s helping doctors diagnose patients more accurately, make predictions about patients’ future health, and recommend better treatments. This repository contains my labs and assignments for the AI for Medical Diagnosis by Coursera and DeepLearning.AI.
 
 
 - **Week 1** - Disease Detection with Computer Vision
