@@ -1,17 +1,31 @@
 # AI for Medical Diagnosis
-
+---------------------------------------------------
 AI is transforming the practice of medicine. It’s helping doctors diagnose patients more accurately, make predictions about patients’ future health, and recommend better treatments.
 
 - **Week 1** - Disease Detection with Computer Vision
+  
 Practice classifying diseases on chest x-rays using a neural network.
+  - **Lab:**
+  - **Assignment:**
+
+- **Week 2** - Evaluating Models
+
+Practice implementing standard evaluation metrics to see how well a model performs in diagnosing diseases.
   - **Labs:**
+  - **Assignment:**
+
+- **Week 3** - Image Segmentation on MRI Images
+
+Prepare 3D MRI data, implement an appropriate loss function for image segmentation, and apply a pre-trained U-net model to segment tumor regions in 3D brain MRI images.
+  - **Labs:**
+  - **Assignment:**
 
 
 
 
 **Instructors**: Pranav Rajpurkar(Harvard University), Bora Uyumazturk(Viaduct), Amirhossein Kiani(Google Health)
 
-
+---------------------------------------------------
 ### References
 
 **Nature:** Dermatologist-level classification of skin cancer with deep neural networks. https://www.nature.com/articles/nature21056
