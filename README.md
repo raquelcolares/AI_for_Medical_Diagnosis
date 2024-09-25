@@ -5,7 +5,7 @@ AI is transforming the practice of medicine. It’s helping doctors diagnose pat
 - **Week 1** - Disease Detection with Computer Vision
   
   Practice classifying diseases on chest x-rays using a neural network.
-    - **Lab:**
+    - **Labs:**
 
         [Data Exploration & Image Pre-Processing](https://github.com/raquelcolares/AI-for-Medical-Diagnosis/blob/main/week%201/labs/C1_W1_Lab_1_data_exploration_and_image_preprocessing.ipynb)
       
@@ -22,8 +22,13 @@ AI is transforming the practice of medicine. It’s helping doctors diagnose pat
 - **Week 2** - Evaluating Models
 
   Practice implementing standard evaluation metrics to see how well a model performs in diagnosing diseases.
-    - **Labs:**
+    - **Lab:**
+
+      [ROC Curve and Threshold](https://github.com/raquelcolares/AI-for-Medical-Diagnosis/blob/main/week%202/lab/C1_W2_Lab_1_roc_curve%20_and_threshold.ipynb)
+
     - **Assignment:**
+
+      [Evaluation of Diagnostic Models](https://github.com/raquelcolares/AI-for-Medical-Diagnosis/blob/main/week%202/assignment/C1_W2_Assignment.ipynb)
 
 - **Week 3** - Image Segmentation on MRI Images
 
