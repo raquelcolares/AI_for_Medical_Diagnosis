@@ -1,7 +1,15 @@
 # AI for Medical Diagnosis
 
+AI is transforming the practice of medicine. It’s helping doctors diagnose patients more accurately, make predictions about patients’ future health, and recommend better treatments.
+
+- **Week 1** - Disease Detection with Computer Vision
+Practice classifying diseases on chest x-rays using a neural network.
+  - **Labs:**
 
 
+
+
+**Instructors**: Pranav Rajpurkar(Harvard University), Bora Uyumazturk(Viaduct), Amirhossein Kiani(Google Health)
 
 
 ### References
