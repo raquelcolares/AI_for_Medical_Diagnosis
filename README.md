@@ -2,6 +2,7 @@
 
 AI is transforming the practice of medicine. It’s helping doctors diagnose patients more accurately, make predictions about patients’ future health, and recommend better treatments.
 
+
 - **Week 1** - Disease Detection with Computer Vision
   
   Practice classifying diseases on chest x-rays using a neural network.
@@ -19,6 +20,7 @@ AI is transforming the practice of medicine. It’s helping doctors diagnose pat
       
         [Chest X-Ray Medical Diagnosis with Deep Learning](https://github.com/raquelcolares/AI-for-Medical-Diagnosis/blob/main/week%201/assignment/C1_W1_Assignment.ipynb)
 
+
 - **Week 2** - Evaluating Models
 
   Practice implementing standard evaluation metrics to see how well a model performs in diagnosing diseases.
@@ -30,11 +32,21 @@ AI is transforming the practice of medicine. It’s helping doctors diagnose pat
 
       [Evaluation of Diagnostic Models](https://github.com/raquelcolares/AI-for-Medical-Diagnosis/blob/main/week%202/assignment/C1_W2_Assignment.ipynb)
 
+
 - **Week 3** - Image Segmentation on MRI Images
 
   Prepare 3D MRI data, implement an appropriate loss function for image segmentation, and apply a pre-trained U-net model to segment tumor regions in 3D brain MRI images.
     - **Labs:**
+
+      [Explore MRI Data and Labels](https://github.com/raquelcolares/AI-for-Medical-Diagnosis/blob/main/week%203/labs/C1_W3_Lab_1_explore_mri_data_and_labels.ipynb)
+      
+      [Extract a Sub Section](https://github.com/raquelcolares/AI-for-Medical-Diagnosis/blob/main/week%203/labs/C1_W3_Lab_2_extract_a_sub_section.ipynb)
+      
+      [U-Net Model](https://github.com/raquelcolares/AI-for-Medical-Diagnosis/blob/main/week%203/labs/C1_W3_Lab_3_unet_model.ipynb)
+      
     - **Assignment:**
+
+      [Brain Tumor Auto-Segmentation for Magnetic Resonance Imaging (MRI)](https://github.com/raquelcolares/AI-for-Medical-Diagnosis/blob/main/week%203/assignment/C1_W3_Assignment.ipynb)
 
 
 #### Instructors: 
