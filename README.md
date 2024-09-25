@@ -20,6 +20,8 @@
 
 **arxiv:** U-Net: Convolutional Networks for Biomedical Image Segmentation. https://arxiv.org/abs/1505.04597
 
+**arxiv:** 3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation. https://arxiv.org/abs/1606.06650
+
 **DeepLearning.AI:** https://www.deeplearning.ai/
 
 **Coursera:** https://www.coursera.org/
